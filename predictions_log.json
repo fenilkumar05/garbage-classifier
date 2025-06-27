@@ -1,0 +1,734 @@
+[
+  {
+    "timestamp": "2025-06-26T12:56:38.990660",
+    "image_name": "image8.jpg",
+    "predicted_class": "trash",
+    "confidence": 0.4528515636920929
+  },
+  {
+    "timestamp": "2025-06-26T12:56:57.040570",
+    "image_name": "image8.jpg",
+    "predicted_class": "trash",
+    "confidence": 0.4528515636920929
+  },
+  {
+    "timestamp": "2025-06-26T12:57:34.581818",
+    "image_name": "image28.jpg",
+    "predicted_class": "plastic",
+    "confidence": 0.7866928577423096
+  },
+  {
+    "timestamp": "2025-06-26T13:03:39.307706",
+    "image_name": "bottle.png",
+    "predicted_class": "plastic",
+    "confidence": 0.7611497044563293
+  },
+  {
+    "timestamp": "2025-06-26T13:14:41.402763",
+    "image_name": "glass.png",
+    "predicted_class": "glass",
+    "confidence": 0.4713098406791687
+  },
+  {
+    "timestamp": "2025-06-26T13:18:09.390579",
+    "image_name": "glass.png",
+    "predicted_class": "glass",
+    "confidence": 0.4713098406791687
+  },
+  {
+    "timestamp": "2025-06-26T13:18:19.357726",
+    "image_name": "glass.png",
+    "predicted_class": "glass",
+    "confidence": 0.4713098406791687
+  },
+  {
+    "timestamp": "2025-06-26T13:18:51.724567",
+    "image_name": "glass.png",
+    "predicted_class": "glass",
+    "confidence": 0.4713098406791687
+  },
+  {
+    "timestamp": "2025-06-26T13:19:16.483799",
+    "image_name": "bottle.png",
+    "predicted_class": "plastic",
+    "confidence": 0.7611497044563293
+  },
+  {
+    "timestamp": "2025-06-26T13:21:08.918360",
+    "image_name": "bottle.png",
+    "predicted_class": "plastic",
+    "confidence": 0.7611497044563293
+  },
+  {
+    "timestamp": "2025-06-26T13:21:19.129739",
+    "image_name": "glass.png",
+    "predicted_class": "glass",
+    "confidence": 0.4713098406791687
+  },
+  {
+    "timestamp": "2025-06-26T13:22:02.132680",
+    "image_name": "glass.png",
+    "predicted_class": "glass",
+    "confidence": 0.4713098406791687
+  },
+  {
+    "timestamp": "2025-06-26T13:22:13.842234",
+    "image_name": "glass.png",
+    "predicted_class": "glass",
+    "confidence": 0.4713098406791687
+  },
+  {
+    "timestamp": "2025-06-26T13:25:56.876788",
+    "image_name": "Screenshot 2023-10-08 110647.png",
+    "predicted_class": "paper",
+    "confidence": 0.5610129833221436
+  },
+  {
+    "timestamp": "2025-06-26T13:54:37.592757",
+    "image_name": "image4.jpg",
+    "predicted_class": "trash",
+    "confidence": 0.4221104085445404
+  },
+  {
+    "timestamp": "2025-06-26T13:55:04.227226",
+    "image_name": "image15.jpg",
+    "predicted_class": "metal",
+    "confidence": 0.6453732252120972
+  },
+  {
+    "timestamp": "2025-06-26T13:55:23.314786",
+    "image_name": "image15.jpg",
+    "predicted_class": "metal",
+    "confidence": 0.6453732252120972
+  },
+  {
+    "timestamp": "2025-06-26T13:55:37.655587",
+    "image_name": "image15.jpg",
+    "predicted_class": "metal",
+    "confidence": 0.6453732252120972
+  },
+  {
+    "timestamp": "2025-06-26T13:57:13.014934",
+    "image_name": "image42.jpg",
+    "predicted_class": "metal",
+    "confidence": 0.7519919872283936
+  },
+  {
+    "timestamp": "2025-06-26T13:57:45.234156",
+    "image_name": "image42.jpg",
+    "predicted_class": "metal",
+    "confidence": 0.7519919872283936
+  },
+  {
+    "timestamp": "2025-06-26T13:57:52.611066",
+    "image_name": "image42.jpg",
+    "predicted_class": "metal",
+    "confidence": 0.7519919872283936
+  },
+  {
+    "timestamp": "2025-06-26T13:58:02.361571",
+    "image_name": "image42.jpg",
+    "predicted_class": "metal",
+    "confidence": 0.7519919872283936
+  },
+  {
+    "timestamp": "2025-06-26T14:16:27.058020",
+    "image_name": "image32.jpg",
+    "predicted_class": "metal",
+    "confidence": 0.44748350977897644
+  },
+  {
+    "timestamp": "2025-06-26T14:41:24.992583",
+    "image_name": "image35.jpg",
+    "predicted_class": "metal",
+    "confidence": 0.6653879880905151
+  },
+  {
+    "timestamp": "2025-06-26T14:41:35.261862",
+    "image_name": "image35.jpg",
+    "predicted_class": "metal",
+    "confidence": 0.6653879880905151
+  },
+  {
+    "timestamp": "2025-06-26T14:45:36.846428",
+    "image_name": "image10.jpg",
+    "predicted_class": "metal",
+    "confidence": 0.42611053586006165
+  },
+  {
+    "timestamp": "2025-06-26T14:45:58.452725",
+    "image_name": "image23.jpg",
+    "predicted_class": "paper",
+    "confidence": 0.3024221360683441
+  },
+  {
+    "timestamp": "2025-06-26T14:46:29.532378",
+    "image_name": "image35.jpg",
+    "predicted_class": "metal",
+    "confidence": 0.6653879880905151
+  },
+  {
+    "timestamp": "2025-06-26T14:57:07.214219",
+    "image_name": "image4.jpg",
+    "predicted_class": "metal",
+    "confidence": 0.4430731236934662
+  },
+  {
+    "timestamp": "2025-06-26T14:57:24.551588",
+    "image_name": "image72.jpg",
+    "predicted_class": "trash",
+    "confidence": 0.4842793941497803
+  },
+  {
+    "timestamp": "2025-06-26T15:13:15.459069",
+    "image_name": "image53.jpg",
+    "predicted_class": "trash",
+    "confidence": 0.4121740758419037
+  },
+  {
+    "timestamp": "2025-06-26T15:13:45.925389",
+    "image_name": "image24.jpg",
+    "predicted_class": "trash",
+    "confidence": 0.4533507227897644
+  },
+  {
+    "timestamp": "2025-06-26T15:13:52.405734",
+    "image_name": "image24.jpg",
+    "predicted_class": "trash",
+    "confidence": 0.4533507227897644
+  },
+  {
+    "timestamp": "2025-06-26T15:14:05.538369",
+    "image_name": "image61.jpg",
+    "predicted_class": "trash",
+    "confidence": 0.4848250150680542
+  },
+  {
+    "timestamp": "2025-06-26T15:14:36.280479",
+    "image_name": "image223.jpg",
+    "predicted_class": "plastic",
+    "confidence": 0.7659827470779419
+  },
+  {
+    "timestamp": "2025-06-26T15:14:58.371000",
+    "image_name": "image223.jpg",
+    "predicted_class": "plastic",
+    "confidence": 0.7659827470779419
+  },
+  {
+    "timestamp": "2025-06-26T15:15:02.816648",
+    "image_name": "image223.jpg",
+    "predicted_class": "plastic",
+    "confidence": 0.7659827470779419
+  },
+  {
+    "timestamp": "2025-06-26T15:49:40.225528",
+    "image_name": "image28.jpg",
+    "predicted_class": "plastic",
+    "confidence": 0.9841311573982239
+  },
+  {
+    "timestamp": "2025-06-26T15:49:59.991130",
+    "image_name": "image32.jpg",
+    "predicted_class": "plastic",
+    "confidence": 0.9460762143135071
+  },
+  {
+    "timestamp": "2025-06-26T15:50:18.077082",
+    "image_name": "image28.jpg",
+    "predicted_class": "paper",
+    "confidence": 0.4200897812843323
+  },
+  {
+    "timestamp": "2025-06-26T15:50:21.698973",
+    "image_name": "image28.jpg",
+    "predicted_class": "paper",
+    "confidence": 0.4200897812843323
+  },
+  {
+    "timestamp": "2025-06-26T15:50:31.111490",
+    "image_name": "image53.jpg",
+    "predicted_class": "trash",
+    "confidence": 0.7153383493423462
+  },
+  {
+    "timestamp": "2025-06-26T15:50:46.112137",
+    "image_name": "bottle.png",
+    "predicted_class": "metal",
+    "confidence": 0.9985499978065491
+  },
+  {
+    "timestamp": "2025-06-26T15:50:55.573987",
+    "image_name": "glass.png",
+    "predicted_class": "glass",
+    "confidence": 0.9043144583702087
+  },
+  {
+    "timestamp": "2025-06-26T16:02:54.006074",
+    "image_name": "bike.jpg",
+    "predicted_class": "metal",
+    "confidence": 0.6539162993431091
+  },
+  {
+    "timestamp": "2025-06-26T16:12:43.167889",
+    "image_name": "bike.jpg",
+    "predicted_class": "metal",
+    "confidence": 0.6539162993431091
+  },
+  {
+    "timestamp": "2025-06-26T16:12:47.405606",
+    "image_name": "bike.jpg",
+    "predicted_class": "metal",
+    "confidence": 0.6539162993431091
+  },
+  {
+    "timestamp": "2025-06-26T16:12:48.785608",
+    "image_name": "bike.jpg",
+    "predicted_class": "metal",
+    "confidence": 0.6539162993431091
+  },
+  {
+    "timestamp": "2025-06-26T16:12:49.952427",
+    "image_name": "bike.jpg",
+    "predicted_class": "metal",
+    "confidence": 0.6539162993431091
+  },
+  {
+    "timestamp": "2025-06-26T16:28:26.321755",
+    "image_name": "arrangement-dirty-dumped-objects.jpg",
+    "predicted_class": "paper",
+    "confidence": 0.6394385695457458
+  },
+  {
+    "timestamp": "2025-06-26T16:28:37.387430",
+    "image_name": "newplot (1).png",
+    "predicted_class": "cardboard",
+    "confidence": 0.8083257079124451
+  },
+  {
+    "timestamp": "2025-06-26T16:28:46.491757",
+    "image_name": "recycling-concept-flat-lay.jpg",
+    "predicted_class": "cardboard",
+    "confidence": 0.9829740524291992
+  },
+  {
+    "timestamp": "2025-06-26T16:52:43.953265",
+    "image_name": "recycling-concept-flat-lay.jpg",
+    "predicted_class": "cardboard",
+    "confidence": 0.9829740524291992
+  },
+  {
+    "timestamp": "2025-06-26T18:56:35.498390",
+    "image_name": "arrangement-dirty-dumped-objects.jpg",
+    "predicted_class": "paper",
+    "confidence": 0.6394385695457458
+  },
+  {
+    "timestamp": "2025-06-26T18:57:28.297937",
+    "image_name": "glass.png",
+    "predicted_class": "glass",
+    "confidence": 0.9043144583702087
+  },
+  {
+    "timestamp": "2025-06-26T18:57:49.122701",
+    "image_name": "bottle.png",
+    "predicted_class": "metal",
+    "confidence": 0.9985499978065491
+  },
+  {
+    "timestamp": "2025-06-26T18:59:24.508207",
+    "image_name": "image29.jpg",
+    "predicted_class": "cardboard",
+    "confidence": 0.7788577079772949
+  },
+  {
+    "timestamp": "2025-06-26T18:59:51.348405",
+    "image_name": "image30.jpg",
+    "predicted_class": "cardboard",
+    "confidence": 0.9902418255805969
+  },
+  {
+    "timestamp": "2025-06-26T19:00:06.146386",
+    "image_name": "image49.jpg",
+    "predicted_class": "cardboard",
+    "confidence": 0.8871800899505615
+  },
+  {
+    "timestamp": "2025-06-26T19:00:27.414816",
+    "image_name": "image78.jpg",
+    "predicted_class": "metal",
+    "confidence": 0.38098955154418945
+  },
+  {
+    "timestamp": "2025-06-26T19:03:30.673110",
+    "image_name": "image78.jpg",
+    "predicted_class": "metal",
+    "confidence": 0.38098955154418945
+  },
+  {
+    "timestamp": "2025-06-26T19:12:23.769792",
+    "image_name": "image29.jpg",
+    "predicted_class": "paper",
+    "confidence": 0.8001887202262878
+  },
+  {
+    "timestamp": "2025-06-26T19:12:37.103131",
+    "image_name": "image69.jpg",
+    "predicted_class": "glass",
+    "confidence": 0.4797062575817108
+  },
+  {
+    "timestamp": "2025-06-26T19:12:50.969256",
+    "image_name": "image98.jpg",
+    "predicted_class": "glass",
+    "confidence": 0.762008547782898
+  },
+  {
+    "timestamp": "2025-06-26T19:13:11.370456",
+    "image_name": "image47.jpg",
+    "predicted_class": "paper",
+    "confidence": 0.9717190861701965
+  },
+  {
+    "timestamp": "2025-06-26T19:34:53.798223",
+    "image_name": "image120.jpg",
+    "predicted_class": "paper",
+    "confidence": 0.9569548964500427
+  },
+  {
+    "timestamp": "2025-06-26T19:35:06.859470",
+    "image_name": "image111.jpg",
+    "predicted_class": "paper",
+    "confidence": 0.5977246761322021
+  },
+  {
+    "timestamp": "2025-06-26T19:35:32.660482",
+    "image_name": "image104.jpg",
+    "predicted_class": "paper",
+    "confidence": 0.8434607982635498
+  },
+  {
+    "timestamp": "2025-06-26T19:35:53.288947",
+    "image_name": "image120.jpg",
+    "predicted_class": "trash",
+    "confidence": 0.728080689907074
+  },
+  {
+    "timestamp": "2025-06-26T19:36:17.538360",
+    "image_name": "image112.jpg",
+    "predicted_class": "trash",
+    "confidence": 0.9325775504112244
+  },
+  {
+    "timestamp": "2025-06-26T19:36:36.453829",
+    "image_name": "image73.jpg",
+    "predicted_class": "trash",
+    "confidence": 0.9411824941635132
+  },
+  {
+    "timestamp": "2025-06-26T19:37:01.609374",
+    "image_name": "image20.jpg",
+    "predicted_class": "glass",
+    "confidence": 0.6560630202293396
+  },
+  {
+    "timestamp": "2025-06-26T19:37:09.802896",
+    "image_name": "image17.jpg",
+    "predicted_class": "glass",
+    "confidence": 0.7270927429199219
+  },
+  {
+    "timestamp": "2025-06-26T19:37:17.797940",
+    "image_name": "image24.jpg",
+    "predicted_class": "glass",
+    "confidence": 0.31740638613700867
+  },
+  {
+    "timestamp": "2025-06-26T19:37:26.831655",
+    "image_name": "image1.jpg",
+    "predicted_class": "metal",
+    "confidence": 0.3160381615161896
+  },
+  {
+    "timestamp": "2025-06-26T19:37:37.956434",
+    "image_name": "image6.jpg",
+    "predicted_class": "glass",
+    "confidence": 0.40505343675613403
+  },
+  {
+    "timestamp": "2025-06-26T19:37:51.749941",
+    "image_name": "image21.jpg",
+    "predicted_class": "metal",
+    "confidence": 0.4448016285896301
+  },
+  {
+    "timestamp": "2025-06-26T19:37:59.758154",
+    "image_name": "image22.jpg",
+    "predicted_class": "paper",
+    "confidence": 0.8343726396560669
+  },
+  {
+    "timestamp": "2025-06-26T19:38:11.415663",
+    "image_name": "image19.jpg",
+    "predicted_class": "glass",
+    "confidence": 0.48282748460769653
+  },
+  {
+    "timestamp": "2025-06-26T19:38:35.299852",
+    "image_name": "image19.jpg",
+    "predicted_class": "glass",
+    "confidence": 0.681740939617157
+  },
+  {
+    "timestamp": "2025-06-26T19:38:48.395909",
+    "image_name": "image16.jpg",
+    "predicted_class": "paper",
+    "confidence": 0.9639257192611694
+  },
+  {
+    "timestamp": "2025-06-26T19:39:09.950650",
+    "image_name": "image17.jpg",
+    "predicted_class": "paper",
+    "confidence": 0.934219241142273
+  },
+  {
+    "timestamp": "2025-06-26T19:39:22.455333",
+    "image_name": "image20.jpg",
+    "predicted_class": "plastic",
+    "confidence": 0.996715784072876
+  },
+  {
+    "timestamp": "2025-06-26T22:22:34.270755",
+    "image_name": "image18.jpg",
+    "predicted_class": "plastic",
+    "confidence": 0.9948990941047668
+  },
+  {
+    "timestamp": "2025-06-26T22:43:43.589883",
+    "image_name": "camera_capture_20250626_224343.jpg",
+    "predicted_class": "metal",
+    "confidence": 0.5461781620979309
+  },
+  {
+    "timestamp": "2025-06-26T22:43:52.824564",
+    "image_name": "camera_capture_20250626_224352.jpg",
+    "predicted_class": "metal",
+    "confidence": 0.5461781620979309
+  },
+  {
+    "timestamp": "2025-06-26T22:43:53.925230",
+    "image_name": "camera_capture_20250626_224353.jpg",
+    "predicted_class": "metal",
+    "confidence": 0.5461781620979309
+  },
+  {
+    "timestamp": "2025-06-26T22:44:05.294040",
+    "image_name": "camera_capture_20250626_224405.jpg",
+    "predicted_class": "metal",
+    "confidence": 0.5461781620979309
+  },
+  {
+    "timestamp": "2025-06-26T22:44:06.388655",
+    "image_name": "camera_capture_20250626_224406.jpg",
+    "predicted_class": "metal",
+    "confidence": 0.5461781620979309
+  },
+  {
+    "timestamp": "2025-06-26T22:44:27.090233",
+    "image_name": "camera_capture_20250626_224427.jpg",
+    "predicted_class": "cardboard",
+    "confidence": 0.906520664691925
+  },
+  {
+    "timestamp": "2025-06-26T22:45:08.316358",
+    "image_name": "camera_capture_20250626_224508.jpg",
+    "predicted_class": "paper",
+    "confidence": 0.5864989161491394
+  },
+  {
+    "timestamp": "2025-06-26T22:45:16.332826",
+    "image_name": "camera_capture_20250626_224516.jpg",
+    "predicted_class": "paper",
+    "confidence": 0.5864989161491394
+  },
+  {
+    "timestamp": "2025-06-26T22:45:16.509068",
+    "image_name": "camera_reanalysis_20250626_224516.jpg",
+    "predicted_class": "paper",
+    "confidence": 0.5864989161491394
+  },
+  {
+    "timestamp": "2025-06-26T22:45:24.276533",
+    "image_name": "camera_capture_20250626_224524.jpg",
+    "predicted_class": "paper",
+    "confidence": 0.5864989161491394
+  },
+  {
+    "timestamp": "2025-06-26T22:45:29.269323",
+    "image_name": "camera_capture_20250626_224529.jpg",
+    "predicted_class": "paper",
+    "confidence": 0.5864989161491394
+  },
+  {
+    "timestamp": "2025-06-26T22:45:30.317732",
+    "image_name": "camera_capture_20250626_224530.jpg",
+    "predicted_class": "paper",
+    "confidence": 0.5864989161491394
+  },
+  {
+    "timestamp": "2025-06-26T22:45:38.017993",
+    "image_name": "camera_capture_20250626_224538.jpg",
+    "predicted_class": "paper",
+    "confidence": 0.5864989161491394
+  },
+  {
+    "timestamp": "2025-06-26T22:45:56.976761",
+    "image_name": "camera_capture_20250626_224556.jpg",
+    "predicted_class": "metal",
+    "confidence": 0.9999339580535889
+  },
+  {
+    "timestamp": "2025-06-26T22:50:20.261059",
+    "image_name": "image12.jpg",
+    "predicted_class": "plastic",
+    "confidence": 0.971839189529419
+  },
+  {
+    "timestamp": "2025-06-26T22:51:23.396389",
+    "image_name": "image8.jpg",
+    "predicted_class": "plastic",
+    "confidence": 0.8596672415733337
+  },
+  {
+    "timestamp": "2025-06-26T22:51:47.391867",
+    "image_name": "image12.jpg",
+    "predicted_class": "plastic",
+    "confidence": 0.971839189529419
+  },
+  {
+    "timestamp": "2025-06-26T22:52:09.764300",
+    "image_name": "image2.jpg",
+    "predicted_class": "glass",
+    "confidence": 0.7060837149620056
+  },
+  {
+    "timestamp": "2025-06-26T22:53:44.589434",
+    "image_name": "camera_capture_20250626_225344.jpg",
+    "predicted_class": "plastic",
+    "confidence": 0.5799986720085144
+  },
+  {
+    "timestamp": "2025-06-26T22:53:58.138743",
+    "image_name": "camera_capture_20250626_225358.jpg",
+    "predicted_class": "metal",
+    "confidence": 0.9995614886283875
+  },
+  {
+    "timestamp": "2025-06-26T22:54:07.991466",
+    "image_name": "camera_capture_20250626_225407.jpg",
+    "predicted_class": "metal",
+    "confidence": 0.9996788501739502
+  },
+  {
+    "timestamp": "2025-06-26T23:11:56.635210",
+    "image_name": "image21.jpg",
+    "predicted_class": "trash",
+    "confidence": 0.8702515363693237
+  },
+  {
+    "timestamp": "2025-06-26T23:12:14.231668",
+    "image_name": "image8.jpg",
+    "predicted_class": "trash",
+    "confidence": 0.9207397699356079
+  },
+  {
+    "timestamp": "2025-06-26T23:12:37.604795",
+    "image_name": "image8.jpg",
+    "predicted_class": "trash",
+    "confidence": 0.9207397699356079
+  },
+  {
+    "timestamp": "2025-06-26T23:13:03.147434",
+    "image_name": "image2.jpg",
+    "predicted_class": "plastic",
+    "confidence": 0.8893424272537231
+  },
+  {
+    "timestamp": "2025-06-26T23:13:33.699784",
+    "image_name": "camera_capture_20250626_231333.jpg",
+    "predicted_class": "metal",
+    "confidence": 0.4929010570049286
+  },
+  {
+    "timestamp": "2025-06-26T23:13:56.427159",
+    "image_name": "camera_capture_20250626_231356.jpg",
+    "predicted_class": "metal",
+    "confidence": 0.9999275207519531
+  },
+  {
+    "timestamp": "2025-06-26T23:14:06.733779",
+    "image_name": "camera_capture_20250626_231406.jpg",
+    "predicted_class": "metal",
+    "confidence": 0.9999275207519531
+  },
+  {
+    "timestamp": "2025-06-26T23:15:47.590622",
+    "image_name": "image6.jpg",
+    "predicted_class": "plastic",
+    "confidence": 0.8857495188713074
+  },
+  {
+    "timestamp": "2025-06-26T23:16:02.085929",
+    "image_name": "image20.jpg",
+    "predicted_class": "plastic",
+    "confidence": 0.99644935131073
+  },
+  {
+    "timestamp": "2025-06-26T23:17:06.088918",
+    "image_name": "test_image_1.jpg",
+    "predicted_class": "cardboard",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-06-26T23:17:06.091340",
+    "image_name": "test_image_2.jpg",
+    "predicted_class": "plastic",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-06-26T23:17:06.109511",
+    "image_name": "test_image_3.jpg",
+    "predicted_class": "glass",
+    "confidence": 0.6
+  },
+  {
+    "timestamp": "2025-06-26T23:23:21.064370",
+    "image_name": "test_image_1.jpg",
+    "predicted_class": "cardboard",
+    "confidence": 0.95
+  },
+  {
+    "timestamp": "2025-06-26T23:23:21.066835",
+    "image_name": "test_image_2.jpg",
+    "predicted_class": "plastic",
+    "confidence": 0.75
+  },
+  {
+    "timestamp": "2025-06-26T23:23:21.084332",
+    "image_name": "test_image_3.jpg",
+    "predicted_class": "glass",
+    "confidence": 0.6
+  },
+  {
+    "timestamp": "2025-06-26T23:24:57.274720",
+    "image_name": "image15.jpg",
+    "predicted_class": "paper",
+    "confidence": 0.8922419548034668
+  },
+  {
+    "timestamp": "2025-06-26T23:25:52.244915",
+    "image_name": "image14.jpg",
+    "predicted_class": "paper",
+    "confidence": 0.9606913328170776
+  }
+]
